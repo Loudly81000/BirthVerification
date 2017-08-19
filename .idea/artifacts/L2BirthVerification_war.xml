@@ -1,0 +1,6 @@
+<component name="ArtifactManager">
+  <artifact type="war" build-on-make="true" name="L2BirthVerification.war">
+    <output-path>$PROJECT_DIR$/out/artifacts/L2BirthVerification_war</output-path>
+    <root id="archive" name="L2BirthVerification.war.war" />
+  </artifact>
+</component>
